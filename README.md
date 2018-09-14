@@ -18,6 +18,8 @@ it, simply add the following line to your Podfile:
 
 ```ruby
 pod 'EillyerNetWork'
+or
+pod 'EillyerNetWork', :git =>  'https://github.com/eillyer/EillyerNetWork.git'
 ```
 
 ## Author
