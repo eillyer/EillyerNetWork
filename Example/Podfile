@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EillyerNetWork_Example' do
+  pod 'EillyerNetWork', :path => '../'
+
+  target 'EillyerNetWork_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
