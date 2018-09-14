@@ -1,0 +1,6 @@
+framework module Pods_EillyerNetWork_Tests {
+  umbrella header "Pods-EillyerNetWork_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

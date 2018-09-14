@@ -1,0 +1,6 @@
+framework module EillyerNetWork {
+  umbrella header "EillyerNetWork-umbrella.h"
+
+  export *
+  module * { export * }
+}
